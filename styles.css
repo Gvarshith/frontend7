@@ -152,7 +152,7 @@ h4 {
 .Hide{
   display: none;
 }
-@media (max-width: 350px) {
+@media (max-width: 300px) {
   main {
     display: flex;
     flex-direction: column-reverse;
